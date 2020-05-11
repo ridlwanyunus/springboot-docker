@@ -2,7 +2,7 @@ version: '3.1'
 
 services:
    simple-openshift-container:
-      image: simple-openshift:latest
+      image: springboot-docker:latest
       ports:
          - '8282:8282'
       env_file:
