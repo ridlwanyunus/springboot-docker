@@ -1,0 +1,6 @@
+com\example\demo\openshift\model\User.class
+com\example\demo\openshift\config\WebSecurityConfig.class
+com\example\demo\openshift\service\UserDetailsServiceImpl.class
+com\example\demo\openshift\OpenshiftApplication.class
+com\example\demo\openshift\controller\MenuController.class
+com\example\demo\openshift\repository\UserRepository.class
